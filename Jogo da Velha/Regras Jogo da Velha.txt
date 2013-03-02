@@ -1,0 +1,16 @@
+-Primeiro é atacante
+-Iniciar no canto
+-Se 3º marcado jogar no 7 (jogar na casa oposta)
+-A partir da terceira jogada (individual) verificar campeão
+-Se máquina iniciar, ataca; Se usuário iniciar, defender/atacar
+-Se máquina iniciar marcar 1ª casa
+-Se usuário marcar 5ª, marca 9ª casa (qualquer um dos cantos)
+-Se não marcar meio, marcar meio
+-Verificar vitória
+-Verificar derrota
+-Randômico cantos
+-Prever jogadas
+-Verificar se na mesma linha tem duas opções marcadas, se tiver marca a terceira pra impedir o usuário de ganhar
+-Modo Jogador/Jogador, Jogador/CPU
+-Ao clicar em um botão (de seleção de modo de jogo) o outro fica desabilitado (Enabled = false)
+-No iniciar, habilita os dois botões

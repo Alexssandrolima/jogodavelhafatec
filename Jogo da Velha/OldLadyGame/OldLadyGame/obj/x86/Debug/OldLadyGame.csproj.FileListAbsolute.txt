@@ -1,0 +1,8 @@
+D:\Análise e Desenvolvimento de Sistemas\3º Semestre\Engenharia de Software II\Jogo da Velha\OldLadyGame\OldLadyGame\bin\Debug\OldLadyGame.exe
+D:\Análise e Desenvolvimento de Sistemas\3º Semestre\Engenharia de Software II\Jogo da Velha\OldLadyGame\OldLadyGame\bin\Debug\OldLadyGame.pdb
+D:\Análise e Desenvolvimento de Sistemas\3º Semestre\Engenharia de Software II\Jogo da Velha\OldLadyGame\OldLadyGame\obj\x86\Debug\OldLadyGame.Form1.resources
+D:\Análise e Desenvolvimento de Sistemas\3º Semestre\Engenharia de Software II\Jogo da Velha\OldLadyGame\OldLadyGame\obj\x86\Debug\OldLadyGame.Properties.Resources.resources
+D:\Análise e Desenvolvimento de Sistemas\3º Semestre\Engenharia de Software II\Jogo da Velha\OldLadyGame\OldLadyGame\obj\x86\Debug\OldLadyGame.csproj.GenerateResource.Cache
+D:\Análise e Desenvolvimento de Sistemas\3º Semestre\Engenharia de Software II\Jogo da Velha\OldLadyGame\OldLadyGame\obj\x86\Debug\OldLadyGame.exe
+D:\Análise e Desenvolvimento de Sistemas\3º Semestre\Engenharia de Software II\Jogo da Velha\OldLadyGame\OldLadyGame\obj\x86\Debug\OldLadyGame.pdb
+D:\Análise e Desenvolvimento de Sistemas\3º Semestre\Engenharia de Software II\Jogo da Velha\OldLadyGame\OldLadyGame\obj\x86\Debug\OldLadyGame.csprojResolveAssemblyReference.cache
